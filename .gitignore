@@ -1,0 +1,20 @@
+# Environment and secrets
+.env
+*.session
+.session_data/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Local scratch files
+/test.py
+/test_alerts.py
+/test_automate.py
+/openapi.json
